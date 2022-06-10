@@ -1,0 +1,2 @@
+# Prediction-modelling-using-ML-SupervisedLearning-classification-
+This project is a small attempt to understand and apply the machine learning tools and techniques to see whether the given set of features are able to predict the approval rates of credit cards, After doing the data cleansing and pre-processing using various modules like sklearn, pandas, numpy, prettytables. techniques like-logitReg,KNN, xgboost, decision tree and gradient boosting etc. extensively  to derive  and verify the predictability of these features as well. 
